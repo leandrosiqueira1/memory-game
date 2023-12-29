@@ -9,6 +9,6 @@ O Desenvolvimento desse <strong> JOGO </strong> tem como obejtvo, apefeiçoar os
  <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/CSS-C7EBAB?style=for-the-badge">
 
 ## Link do site
- <a href="https://leandrosiqueira1.github.io/memory-game/">Jogo da Memória</a>
+ <a href="https://leandrosiqueira1.github.io/memory-game">Jogo da Memória</a>
  ##
 <div align="center">Feito com muito muita dedicação por <a href="https://github.com/leandrosiqueira">Leandro Siqueira</a>.</div>
