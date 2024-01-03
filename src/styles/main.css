@@ -100,7 +100,7 @@ h2{
 	position: absolute;
 	inset: 0;
 	background: #404040;
-	transition: 0.25s;
+	transition: 0.20s;
 	transform: rotateY(0deg);
 	backface-visibility: hidden;
 	
